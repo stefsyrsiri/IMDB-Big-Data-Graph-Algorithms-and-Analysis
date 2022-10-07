@@ -1,1 +1,1 @@
-# IMData Graph Algorithms for DA
+# IMDB Data Graph Algorithms for DA
