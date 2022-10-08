@@ -8,6 +8,7 @@ Project for Università degli Studi di Firenze under the course "Algorithms and 
 * Iteration Alternatives
 * Custom functions
 * Binary search
+* Regex
 * Breadth-First-Search
 * Graph diameter exact computation
 * Questions menu
