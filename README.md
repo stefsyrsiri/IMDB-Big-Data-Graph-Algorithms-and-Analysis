@@ -6,6 +6,7 @@ Project for Università degli Studi di Firenze under the course "Algorithms and 
 * Big Data handling
 * Bipartite Graph creation
 * Iteration Alternatives
+* Dictionaries
 * Custom functions
 * Binary search
 * Regex
